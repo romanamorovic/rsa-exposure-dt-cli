@@ -1,3 +1,5 @@
+To run the tool: 
+
 1. Go to data/pickles, unzip:
 
 - lco_cont_window_r2_all_H_randomForestN30.zip
