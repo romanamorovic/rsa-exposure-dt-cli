@@ -22,7 +22,7 @@ Example usage of the script:
 python3 custom_prediction.py -i seq_seq1.fasta -o seq1_preds -m randomForestN30 -f lco_cont_window_r4_all_H
 ```
 
-Allowed combinations of <MODEL> and <FEATURES>
+Allowed combinations of MODEL and FEATURES parameters:
 
 ```
 lco_cont_window_r0_all_H x randomForestN30
