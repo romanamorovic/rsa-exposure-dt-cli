@@ -1,14 +1,12 @@
 Go to data/pickles, unzip:
 
-lco_cont_window_r2_all_H_randomForestN30
-
-lco_cont_window_r3_all_H_randomForestN30
-
-lco_cont_window_r4_all_H_randomForestN30
+- lco_cont_window_r2_all_H_randomForestN30.zip
+- lco_cont_window_r3_all_H_randomForestN30.zip
+- lco_cont_window_r4_all_H_randomForestN30.zip
 
 Then:
 
-cd bin
+```cd bin```
 
 python3 custom_prediction.py -i <INPUT> -o <OUTPUT_WITHOUT_EXTENSION> -m <MODEL> -f <FEATURES>
 
